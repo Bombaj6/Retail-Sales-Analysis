@@ -1,0 +1,201 @@
+Order Date,Region,Sales Rep,Category,Product,Quantity,Unit Price,Sales,Profit
+2023-03-13,East,Diana,Technology,Printer,7,1235.51,8648.54,829.04
+2023-11-27,West,Diana,Furniture,Chair,5,86.45,432.25,38.47
+2023-05-11,South,Alice,Office Supplies,Paper,8,173.52,1388.14,118.99
+2023-10-21,East,Diana,Furniture,Chair,6,37.64,225.85,52.06
+2023-11-10,East,Charlie,Office Supplies,Paper,2,99.09,198.19,19.0
+2023-02-28,East,Bob,Furniture,Chair,6,13.46,80.77,4.5
+2023-05-11,North,Alice,Office Supplies,Stapler,3,197.41,592.22,175.18
+2023-06-16,South,Diana,Office Supplies,Paper,5,307.7,1538.48,142.51
+2023-08-30,West,Alice,Technology,Laptop,2,1433.55,2867.1,835.5
+2023-04-02,West,Diana,Technology,Laptop,9,220.76,1986.81,214.03
+2023-02-04,West,Charlie,Technology,Printer,7,993.0,6950.97,1795.43
+2023-01-02,North,Bob,Technology,Laptop,1,536.41,536.41,115.67
+2023-07-10,West,Alice,Technology,Monitor,6,470.32,2821.94,541.6
+2023-09-27,West,Bob,Furniture,Table,2,389.82,779.63,222.1
+2023-07-09,West,Alice,Office Supplies,Stapler,8,289.52,2316.14,417.39
+2023-02-22,South,Alice,Furniture,Bookcase,8,423.82,3390.57,802.99
+2023-02-10,West,Bob,Furniture,Chair,8,184.81,1478.47,177.76
+2023-05-09,South,Charlie,Furniture,Table,1,17.66,17.66,2.75
+2023-03-22,North,Bob,Furniture,Chair,8,12.71,101.65,25.81
+2023-09-18,North,Alice,Office Supplies,Pen,8,367.21,2937.71,713.33
+2023-07-20,North,Diana,Furniture,Chair,7,329.03,2303.19,641.99
+2023-03-03,North,Bob,Technology,Laptop,8,784.29,6274.29,463.37
+2023-08-02,South,Bob,Furniture,Chair,8,336.3,2690.42,532.23
+2023-05-11,East,Bob,Technology,Printer,3,813.88,2441.64,195.08
+2023-12-25,North,Bob,Technology,Laptop,1,1138.25,1138.25,124.06
+2023-06-28,West,Alice,Technology,Printer,9,1123.86,10114.76,786.15
+2023-08-10,North,Bob,Technology,Laptop,7,817.98,5725.87,1092.6
+2023-06-20,South,Charlie,Technology,Printer,5,524.08,2620.4,399.86
+2023-08-31,North,Diana,Technology,Printer,4,1425.71,5702.84,1138.95
+2023-03-03,North,Diana,Furniture,Chair,6,441.43,2648.58,545.84
+2023-04-18,West,Alice,Furniture,Table,9,61.69,555.23,91.13
+2023-12-14,North,Bob,Office Supplies,Pen,4,447.35,1789.42,330.75
+2023-10-10,East,Charlie,Furniture,Table,9,165.82,1492.4,115.68
+2023-12-25,East,Alice,Technology,Laptop,9,1263.42,11370.77,3015.33
+2023-06-14,South,Bob,Technology,Laptop,6,863.97,5183.83,800.14
+2023-11-11,West,Diana,Furniture,Table,1,68.73,68.73,9.24
+2023-06-29,South,Charlie,Furniture,Bookcase,6,117.19,703.17,133.27
+2023-09-25,South,Charlie,Furniture,Table,1,41.8,41.8,4.74
+2023-04-23,South,Alice,Technology,Laptop,7,846.42,5924.96,741.92
+2023-05-10,South,Charlie,Office Supplies,Stapler,8,28.07,224.6,45.46
+2023-05-06,South,Diana,Furniture,Table,6,26.19,157.17,21.42
+2023-07-17,North,Charlie,Office Supplies,Stapler,2,270.16,540.32,87.5
+2023-05-03,West,Charlie,Furniture,Table,7,339.35,2375.42,571.06
+2023-04-08,East,Bob,Technology,Printer,1,1146.68,1146.68,162.77
+2023-05-24,West,Alice,Furniture,Table,6,205.42,1232.54,313.2
+2023-12-15,North,Diana,Office Supplies,Paper,1,83.85,83.85,14.85
+2023-12-12,East,Diana,Furniture,Chair,3,299.54,898.61,197.15
+2023-07-18,East,Bob,Office Supplies,Paper,3,406.66,1219.97,167.34
+2023-02-08,South,Bob,Technology,Laptop,4,1422.68,5690.72,850.15
+2023-05-31,East,Bob,Office Supplies,Stapler,2,420.48,840.96,184.11
+2023-04-22,East,Alice,Technology,Monitor,3,497.12,1491.35,139.8
+2023-10-31,North,Diana,Furniture,Table,9,263.15,2368.36,272.85
+2023-01-09,West,Diana,Office Supplies,Pen,5,451.2,2256.02,469.87
+2023-05-11,South,Charlie,Furniture,Table,9,181.11,1630.01,377.33
+2023-04-26,North,Diana,Furniture,Chair,4,444.67,1778.69,435.72
+2023-12-06,East,Bob,Technology,Printer,1,410.12,410.12,112.63
+2023-06-02,South,Alice,Technology,Laptop,3,683.97,2051.9,584.86
+2023-11-06,South,Charlie,Furniture,Table,2,88.8,177.59,33.24
+2023-06-10,West,Alice,Furniture,Table,3,329.46,988.38,104.83
+2023-05-15,North,Alice,Office Supplies,Stapler,4,126.25,505.01,66.33
+2023-01-22,South,Charlie,Office Supplies,Stapler,3,332.23,996.69,191.44
+2023-09-21,South,Diana,Furniture,Table,6,489.66,2937.95,504.4
+2023-11-13,West,Bob,Furniture,Bookcase,2,181.54,363.08,76.71
+2023-01-17,North,Bob,Office Supplies,Stapler,3,290.28,870.85,210.87
+2023-02-06,North,Bob,Furniture,Bookcase,5,442.91,2214.56,524.7
+2023-04-05,East,Bob,Furniture,Chair,8,172.07,1376.54,259.05
+2023-09-10,East,Charlie,Technology,Printer,3,1474.43,4423.29,304.48
+2023-11-19,North,Alice,Technology,Printer,5,448.18,2240.92,262.45
+2023-02-27,South,Alice,Furniture,Chair,2,282.83,565.67,160.67
+2023-10-15,East,Charlie,Office Supplies,Paper,3,289.33,867.99,64.49
+2023-09-30,West,Diana,Technology,Printer,6,666.24,3997.44,453.87
+2023-06-25,West,Charlie,Technology,Printer,8,1106.12,8848.96,1996.51
+2023-12-21,West,Charlie,Furniture,Table,7,153.86,1077.02,271.78
+2023-11-09,South,Bob,Technology,Printer,2,1327.19,2654.39,738.74
+2023-05-22,North,Diana,Office Supplies,Stapler,4,401.16,1604.66,340.98
+2023-11-18,South,Bob,Furniture,Chair,3,175.62,526.85,75.81
+2023-07-05,West,Charlie,Technology,Laptop,7,1073.63,7515.44,992.32
+2023-06-29,South,Alice,Office Supplies,Stapler,6,299.51,1797.05,103.56
+2023-04-11,North,Charlie,Office Supplies,Paper,6,158.6,951.6,175.35
+2023-04-18,North,Charlie,Technology,Laptop,1,1276.23,1276.23,150.45
+2023-12-16,West,Bob,Office Supplies,Pen,5,234.06,1170.3,304.87
+2023-09-26,East,Diana,Furniture,Bookcase,3,322.34,967.02,223.89
+2023-05-25,West,Alice,Technology,Monitor,2,871.19,1742.38,227.8
+2023-12-12,East,Charlie,Technology,Laptop,8,552.08,4416.66,705.53
+2023-05-07,North,Charlie,Technology,Laptop,5,439.63,2198.17,154.35
+2023-05-02,South,Bob,Office Supplies,Pen,9,347.36,3126.28,201.8
+2023-04-28,North,Alice,Furniture,Table,1,226.75,226.75,24.93
+2023-09-29,West,Charlie,Furniture,Bookcase,9,333.5,3001.47,360.13
+2023-12-15,East,Charlie,Technology,Monitor,7,1054.24,7379.71,1172.77
+2023-03-27,West,Charlie,Technology,Monitor,7,262.03,1834.22,351.27
+2023-02-16,South,Alice,Technology,Laptop,9,644.44,5799.99,423.11
+2023-07-23,West,Diana,Furniture,Chair,1,162.59,162.59,47.94
+2023-08-10,East,Alice,Technology,Printer,5,815.51,4077.57,380.44
+2023-11-21,North,Diana,Office Supplies,Pen,5,205.27,1026.34,209.33
+2023-09-07,West,Bob,Office Supplies,Stapler,4,32.2,128.8,18.5
+2023-11-21,West,Diana,Office Supplies,Pen,3,256.54,769.61,203.27
+2023-09-15,East,Bob,Office Supplies,Stapler,4,311.77,1247.07,356.63
+2023-12-06,South,Diana,Office Supplies,Stapler,1,434.93,434.93,90.94
+2023-02-02,North,Diana,Technology,Monitor,8,1080.32,8642.55,1670.97
+2023-09-25,East,Charlie,Furniture,Table,1,407.49,407.49,103.98
+2023-02-12,North,Bob,Furniture,Bookcase,3,412.01,1236.03,263.12
+2023-08-03,West,Alice,Technology,Printer,2,250.65,501.3,102.55
+2023-03-31,West,Charlie,Technology,Monitor,1,1052.44,1052.44,154.02
+2023-11-10,East,Bob,Furniture,Table,2,137.74,275.48,47.94
+2023-08-05,South,Diana,Technology,Laptop,5,652.84,3264.19,927.56
+2023-12-23,West,Diana,Office Supplies,Paper,5,484.11,2420.57,452.63
+2023-04-09,South,Diana,Technology,Laptop,9,939.08,8451.69,1639.47
+2023-06-01,East,Alice,Technology,Monitor,4,683.62,2734.49,667.5
+2023-07-02,West,Alice,Office Supplies,Paper,7,466.07,3262.5,863.27
+2023-09-30,East,Alice,Technology,Monitor,7,1180.91,8266.34,626.43
+2023-12-08,North,Charlie,Technology,Monitor,1,856.83,856.83,219.87
+2023-08-21,West,Charlie,Technology,Printer,3,705.96,2117.89,111.63
+2023-07-25,South,Bob,Office Supplies,Paper,3,54.73,164.19,21.32
+2023-03-10,West,Bob,Technology,Printer,4,945.47,3781.88,786.48
+2023-02-22,South,Diana,Furniture,Bookcase,3,305.2,915.59,172.52
+2023-06-30,North,Charlie,Office Supplies,Stapler,7,392.84,2749.85,215.5
+2023-06-12,West,Charlie,Technology,Laptop,7,1494.71,10462.97,669.29
+2023-08-27,West,Bob,Office Supplies,Pen,7,277.5,1942.49,439.89
+2023-09-10,West,Charlie,Furniture,Bookcase,9,383.14,3448.26,705.36
+2023-06-19,South,Diana,Furniture,Table,6,51.21,307.27,69.21
+2023-01-05,West,Alice,Office Supplies,Stapler,9,412.71,3714.4,841.54
+2023-12-31,West,Diana,Furniture,Table,5,124.28,621.41,121.38
+2023-11-23,North,Charlie,Furniture,Table,1,441.38,441.38,48.19
+2023-09-09,West,Bob,Office Supplies,Pen,9,300.03,2700.23,371.43
+2023-04-01,East,Bob,Office Supplies,Paper,3,390.8,1172.41,222.29
+2023-05-21,West,Diana,Office Supplies,Stapler,3,64.49,193.46,33.5
+2023-11-13,East,Bob,Furniture,Table,2,239.64,479.29,30.71
+2023-12-14,North,Diana,Furniture,Chair,9,374.66,3371.97,742.71
+2023-11-08,East,Alice,Furniture,Chair,9,193.69,1743.18,211.67
+2023-02-13,East,Alice,Technology,Laptop,1,490.67,490.67,142.69
+2023-09-09,West,Charlie,Furniture,Table,5,31.27,156.33,43.95
+2023-02-16,North,Alice,Office Supplies,Pen,5,133.97,669.83,149.94
+2023-01-01,North,Charlie,Technology,Printer,9,481.85,4336.67,536.11
+2023-01-12,North,Charlie,Technology,Printer,5,1106.0,5530.01,807.66
+2023-01-08,South,Diana,Technology,Printer,8,712.88,5703.03,437.36
+2023-06-27,East,Diana,Furniture,Bookcase,4,237.21,948.85,131.26
+2023-05-25,East,Bob,Office Supplies,Stapler,5,487.45,2437.27,722.78
+2023-08-08,North,Alice,Office Supplies,Pen,9,161.67,1455.02,368.77
+2023-09-13,South,Diana,Office Supplies,Stapler,3,413.04,1239.13,356.19
+2023-11-08,East,Alice,Furniture,Table,5,310.57,1552.87,240.01
+2023-10-16,North,Bob,Technology,Printer,2,917.06,1834.13,167.29
+2023-06-26,West,Diana,Office Supplies,Stapler,6,407.17,2443.03,725.14
+2023-11-11,West,Alice,Office Supplies,Pen,5,377.29,1886.47,279.66
+2023-04-09,West,Charlie,Furniture,Chair,1,420.78,420.78,70.34
+2023-07-16,East,Alice,Office Supplies,Pen,1,16.7,16.7,1.15
+2023-02-22,West,Charlie,Office Supplies,Pen,5,498.35,2491.76,470.59
+2023-03-26,South,Bob,Technology,Monitor,5,1184.21,5921.03,855.37
+2023-07-24,West,Charlie,Furniture,Chair,9,73.29,659.59,190.3
+2023-10-15,North,Bob,Technology,Monitor,4,497.24,1988.94,433.44
+2023-06-03,North,Charlie,Furniture,Bookcase,2,185.5,371.0,29.08
+2023-11-02,South,Charlie,Technology,Laptop,2,819.07,1638.15,422.39
+2023-08-10,East,Bob,Furniture,Table,1,280.43,280.43,53.35
+2023-07-26,South,Diana,Office Supplies,Stapler,9,299.08,2691.71,457.62
+2023-04-13,West,Diana,Technology,Monitor,5,1006.4,5032.01,1137.33
+2023-11-02,East,Diana,Furniture,Table,6,312.46,1874.76,553.27
+2023-11-04,West,Charlie,Furniture,Chair,2,321.96,643.91,121.51
+2023-01-30,North,Bob,Office Supplies,Stapler,9,261.85,2356.69,579.54
+2023-10-12,North,Bob,Technology,Laptop,7,880.68,6164.78,1383.44
+2023-09-30,East,Diana,Office Supplies,Stapler,4,235.08,940.32,244.97
+2023-02-22,West,Diana,Technology,Monitor,4,796.88,3187.51,940.34
+2023-08-28,North,Diana,Furniture,Bookcase,2,171.09,342.18,71.29
+2023-12-02,East,Alice,Office Supplies,Stapler,3,273.26,819.78,135.29
+2023-07-03,South,Diana,Furniture,Chair,6,351.86,2111.14,200.59
+2023-04-03,South,Alice,Office Supplies,Stapler,9,449.43,4044.84,681.52
+2023-10-04,West,Bob,Technology,Printer,2,982.52,1965.03,208.22
+2023-01-22,South,Diana,Office Supplies,Paper,5,179.09,895.45,122.59
+2023-01-12,West,Diana,Technology,Laptop,5,913.33,4566.65,838.46
+2023-03-14,South,Charlie,Technology,Monitor,2,367.37,734.75,97.37
+2023-02-25,South,Charlie,Furniture,Bookcase,9,245.76,2211.85,490.91
+2023-04-23,West,Charlie,Office Supplies,Paper,1,145.67,145.67,36.64
+2023-05-07,South,Bob,Office Supplies,Stapler,3,100.42,301.25,30.83
+2023-03-19,West,Charlie,Furniture,Table,8,247.42,1979.33,404.9
+2023-07-06,East,Diana,Technology,Laptop,8,1136.67,9093.37,596.39
+2023-08-26,West,Bob,Furniture,Chair,8,75.23,601.82,133.48
+2023-01-15,East,Charlie,Office Supplies,Paper,2,229.23,458.46,83.97
+2023-02-08,East,Diana,Office Supplies,Stapler,9,371.33,3341.96,319.39
+2023-05-06,West,Charlie,Technology,Monitor,9,1292.92,11636.31,841.32
+2023-03-09,North,Bob,Furniture,Table,9,446.36,4017.23,797.01
+2023-08-16,West,Charlie,Office Supplies,Paper,3,327.92,983.77,167.14
+2023-08-24,South,Alice,Furniture,Chair,6,297.55,1785.31,421.98
+2023-06-29,South,Charlie,Technology,Monitor,3,692.4,2077.21,279.1
+2023-08-17,East,Alice,Furniture,Bookcase,2,129.73,259.47,45.29
+2023-07-17,North,Bob,Office Supplies,Stapler,9,126.24,1136.17,85.72
+2023-11-27,West,Alice,Office Supplies,Stapler,6,130.52,783.12,70.61
+2023-08-31,West,Diana,Office Supplies,Stapler,8,449.42,3595.32,251.88
+2023-01-06,South,Diana,Furniture,Chair,8,351.51,2812.09,841.7
+2023-12-01,North,Charlie,Office Supplies,Pen,2,292.24,584.48,163.27
+2023-03-03,West,Diana,Office Supplies,Pen,6,487.78,2926.7,505.4
+2023-01-26,West,Diana,Furniture,Bookcase,9,362.04,3258.4,598.76
+2023-04-28,West,Diana,Technology,Laptop,3,1290.16,3870.47,391.96
+2023-04-23,East,Diana,Furniture,Bookcase,4,218.46,873.86,154.59
+2023-10-20,North,Alice,Office Supplies,Stapler,1,309.2,309.2,37.77
+2023-06-27,North,Charlie,Furniture,Table,4,167.11,668.46,132.67
+2023-06-21,East,Bob,Furniture,Table,8,75.86,606.91,39.96
+2023-11-17,West,Charlie,Technology,Laptop,2,619.06,1238.12,312.59
+2023-02-07,North,Alice,Office Supplies,Stapler,5,11.33,56.64,4.48
+2023-03-10,West,Charlie,Furniture,Table,7,399.2,2794.41,214.26
+2023-05-17,North,Alice,Furniture,Table,2,70.91,141.81,33.0
+2023-10-23,South,Charlie,Office Supplies,Pen,2,98.8,197.61,13.17
+2023-09-24,West,Diana,Technology,Printer,6,262.52,1575.14,386.51
